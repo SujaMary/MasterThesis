@@ -191,7 +191,7 @@ extern "C"
 #define GATT_UNIT_VOLUME_CUBIC_MTR_UUID       0x2711  // m^3, m^3
 #define GATT_UNIT_VELOCITY_MPS_UUID           0x2712  // m/s, m s^-1
 #define GATT_UNIT_ACCELERATION_MPS_SQ_UUID    0x2713  // m/s^2, m s^-2
-#define GATT_UNIT_WAVENUMBER_RM_UUID          0x2714  // ó, m^-1
+#define GATT_UNIT_WAVENUMBER_RM_UUID          0x2714  // Ã³, m^-1
 #define GATT_UNIT_DENSITY_KGPCM_UUID          0x2715  // p, kg m^-3
 #define GATT_UNIT_SURFACE_DENSITY_KGPSM_UUID  0x2716  // pA, kg m^-2
 #define GATT_UNIT_SPECIFIC_VOLUME_CMPKG_UUID  0x2717  // v, m^3 kg^-1
